@@ -1,0 +1,15 @@
+C:/Users/meshkatWIN/Desktop/Capsule_HW/Codes/Divider/Divider.v {1 {vlog -work work C:/Users/meshkatWIN/Desktop/Capsule_HW/Codes/Divider/Divider.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Divider
+
+Top level modules:
+	Divider
+
+} {} {}} C:/Users/meshkatWIN/Desktop/Capsule_HW/Codes/Divider/tb_divider.v {1 {vlog -work work C:/Users/meshkatWIN/Desktop/Capsule_HW/Codes/Divider/tb_divider.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_divider
+
+Top level modules:
+	tb_divider
+
+} {} {}}

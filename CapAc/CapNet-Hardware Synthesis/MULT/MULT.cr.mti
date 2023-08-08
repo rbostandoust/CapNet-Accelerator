@@ -1,0 +1,8 @@
+C:/Users/meshkatWIN/Desktop/Capsule_HW/Codes/Mult_Test.v {1 {vlog -work work {C:\Users\meshkatWIN\Desktop\Capsule_HW\Codes\Mult_Test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mult_Test
+
+Top level modules:
+	Mult_Test
+
+} {} {}}
